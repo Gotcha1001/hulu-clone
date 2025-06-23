@@ -1,5 +1,3 @@
-import React from "react";
-
 function MovieCard(movie: any) {
   const Image_Base_Url = "https://image.tmdb.org/t/p/original";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import GenresList from "../Constant/GenresList";
 import { IoChevronForwardSharp } from "react-icons/io5";
 import MovieList from "./MovieList";
